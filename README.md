@@ -1,3 +1,4 @@
+# Verba volant, scripta manent.
 **Dopest-Hyo** 2023’s keyword is a **_✨record✨_** 
 * 🌱 _write a blog_
 * 📝 _Keep a diary_
